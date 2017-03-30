@@ -1,0 +1,20 @@
+{
+  "name": "list",
+  "description": "prg",
+  "main": "index.html",
+  "authors": [
+    "arunit"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
